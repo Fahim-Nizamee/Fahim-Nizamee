@@ -1,3 +1,5 @@
+<img src="[https://komarev.com/ghpvc/?username=fahim-nizamee&label=Profile%20views:&color=8f05ff&style=flat](https://raw.githubusercontent.com/Fahim-Nizamee/Fahim-Nizamee/main/fahim.gif)"
+        alt="fahim-nizamee" />
 <h1 align="center">Hi There, This is Fahim Nizamee</h1>
 <h3 align="center">I design UI/UX & develop full-stack web Application.</h3>
 
