@@ -1,6 +1,7 @@
+
+<h1 align="center">Hi There, This is </h1>
 <img src="https://raw.githubusercontent.com/Fahim-Nizamee/Fahim-Nizamee/main/fahim.gif"
         alt="fahim-nizamee" />
-<h1 align="center">Hi There, This is Fahim Nizamee</h1>
 <h3 align="center">I design UI/UX & develop full-stack web Application.</h3>
 
 
