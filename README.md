@@ -9,7 +9,7 @@
         src="https://komarev.com/ghpvc/?username=fahim-nizamee&label=Profile%20views:&color=8f05ff&style=flat"
         alt="fahim-nizamee" /> </p>
 
-- 🔭 I’m currently working on **ProductX**
+- 🔭 I’m currently working on **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://fahim-nizamee.netlify.app/](https://fahim-nizamee.netlify.app/)
 
