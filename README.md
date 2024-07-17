@@ -32,9 +32,9 @@
             alt="fahimnizamee__" height="30" width="40" /></a>
 </p>
 
-<img align="left"
+<img 
         src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim-nizamee&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&locale=en&layout=compact"
         alt="fahim-nizamee" />
-<img align="right"
+<img 
         src="https://github-readme-stats.vercel.app/api?username=fahim-nizamee&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&locale=en"
         alt="fahim-nizamee" />
