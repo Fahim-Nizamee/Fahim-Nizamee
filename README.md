@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 👨‍💻 All of my projects are available at [https://fahim-nizamee.netlify.app/](https://fahim-nizamee.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://fahim-nizamee.vercel.app/](https://fahim-nizamee.vercel.app/)
 
 - 💬 Ask me about **MERN, Django, Flask, C, C++, Python, JS.**
 
