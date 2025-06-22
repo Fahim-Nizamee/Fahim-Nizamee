@@ -1,6 +1,9 @@
 # 💫 About Me:
 🎯 I’m currently working on React<br>💼 All of my projects are available at https://fahim-nizamee.vercel.app/<br>💬 Ask me about MERN, Django, Flask, C, C++, Python, JS.<br>📧 How to reach me nizameef@gmail.com
 
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=fahim-nizamee&label=Profile%20views:&color=8f05ff&style=flat"
+        alt="fahim-nizamee" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahim-nizamee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nizameef@gmail.com) 
