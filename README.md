@@ -71,10 +71,10 @@ const fahim: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Fahim-Nizamee&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0E14&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&ring_color=8B5CF6" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-salesp07.vercel.app/api?username=Fahim-Nizamee&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0B0E14&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&ring_color=8B5CF6" alt="GitHub Stats" />
 <img width="42%" src="https://streak-stats.demolab.com?user=Fahim-Nizamee&hide_border=true&background=0B0E14&stroke=1F2430&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=6B7280&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Nizamee&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=0B0E14&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages" />
+<img width="42%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Fahim-Nizamee&layout=compact&langs_count=8&count_private=true&hide_border=true&bg_color=0B0E14&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages" />
 
 <br/><br/>
 
@@ -98,15 +98,17 @@ const fahim: Developer = {
 
 <img src="https://raw.githubusercontent.com/Fahim-Nizamee/Fahim-Nizamee/main/assets/divider.svg" width="100%" alt="" />
 
-## &nbsp;🏆&nbsp; Trophy Shelf
+<!--
+  Trophy shelf — removed 2026-08-04.
+  github-profile-trophy.vercel.app returns HTTP 402 (its Vercel deployment is over
+  quota), so it renders as a broken image for everyone. To bring it back once the
+  service recovers, just uncomment the block below:
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fahim-Nizamee&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/Fahim-Nizamee/Fahim-Nizamee/main/assets/divider.svg" width="100%" alt="" />
+  ## &nbsp;🏆&nbsp; Trophy Shelf
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fahim-Nizamee&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  </div>
+-->
 
 <div align="center">
 
