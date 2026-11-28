@@ -122,7 +122,7 @@ const fahim: Developer = {
 
 Got an idea, a role, or a project worth shipping? My channel is open.
 
-<a href="https://fahim-nizamee.vercel.app/">
+<a href="https://fahimnizamee.xyz/">
   <img width="100%" src="https://raw.githubusercontent.com/Fahim-Nizamee/Fahim-Nizamee/main/assets/cta.svg" alt="View the full portfolio" />
 </a>
 
