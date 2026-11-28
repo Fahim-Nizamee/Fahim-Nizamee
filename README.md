@@ -25,7 +25,7 @@ const fahim: Developer = {
   stack:      ["React", "Next.js", "Node.js", "Django"],
   currently:  "Going deeper on React architecture & performance",
   askMeAbout: ["MERN", "Django", "Flask", "C / C++", "Python", "JavaScript"],
-  portfolio:  "https://fahim-nizamee.vercel.app",
+  portfolio:  "fahimnizamee.xyz",
   motto:      "Make it work, make it right, make it fast — then make it beautiful.",
 };
 ```
